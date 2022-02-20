@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boraozisik
+- 👋 Hi, I’m Bora Özışık
 - 👀 I’m interested in all kind of Software Product that make people's life easy.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any Software project that improves myself and helps people's life.
