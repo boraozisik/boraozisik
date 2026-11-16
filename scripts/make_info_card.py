@@ -13,7 +13,7 @@ OUT = "info-card.svg"
 
 TITLE = "Bora Özışık"
 ROWS = [
-    ("OS",         "macOS"),
+    ("OS",         "macOS / Windows 11"),
     ("Role",       "Software Developer - Full Stack"),
     ("Status",     "Open to work - remote / on-site"),
     ("Frontend",   "React / Next.js / TypeScript / MUI"),
